@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Generated Word Documents
+maududi_books_word/
+*.docx
+*.doc
+
+# Data files
+*.csv
+*.json
+*.xml
+*.db
+*.sqlite3
+*.html
+*.pdf
+*.txt
+
+# HTML cache (if you're storing downloaded HTML)
+readmaududi_scrape/
+
+# Log files
+*.log
+logs/
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+.temp/
+.tmp/
+*.tmp
+*.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
